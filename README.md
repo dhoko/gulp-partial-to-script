@@ -1,4 +1,4 @@
-# Gulp partials to <script>
+# Gulp partials to `<script type="text/template">`
 
 > Add the content of a partial between <script>
 
