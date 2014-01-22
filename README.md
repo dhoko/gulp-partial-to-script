@@ -1,6 +1,6 @@
-# Gulp partials to <script>
+# Gulp partials to script 
 
-> Add the content of a partial between <script>
+> Add the content of a partial between `<script type="text/template">`
 
 ## Install
 
@@ -47,6 +47,7 @@ gulp.task('default', function () {
 `partials(options)`
 
 - **data** : Type: `Object`
+
 ```JavaScript
 {
   suffix : "-viewtpl",
