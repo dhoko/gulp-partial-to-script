@@ -1,6 +1,6 @@
 # Gulp partials to script 
 
-> Add the content of a partial between <script>
+> Add the content of a partial between `<script type="text/template">`
 
 ## Install
 
