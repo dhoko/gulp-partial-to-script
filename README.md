@@ -47,6 +47,7 @@ gulp.task('default', function () {
 `partials(options)`
 
 - **data** : Type: `Object`
+
 ```JavaScript
 {
   suffix : "-viewtpl",
