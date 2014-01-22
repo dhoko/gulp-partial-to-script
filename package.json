@@ -1,6 +1,6 @@
 {
   "name": "gulp-partial-to-script",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Move the content of a partial between <script  type=\"text/template\"></script>",
   "main": "index.js",
   "scripts": {
