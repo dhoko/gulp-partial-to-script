@@ -7,7 +7,7 @@
 Install with [npm](https://npmjs.org/package/gulp-partial-to-script)
 
 ```
-npm install --save-dev gulp-template
+npm install --save-dev gulp-partial-to-script
 ```
 
 
